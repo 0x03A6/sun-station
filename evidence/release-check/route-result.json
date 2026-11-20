@@ -1,0 +1,118 @@
+{
+  "reason": "completed",
+  "error": null,
+  "source": "player-route.jsonl",
+  "samples": 3935,
+  "lastIndex": 3934,
+  "maxPositionErrorMeters": 5.02997732,
+  "sawCockpit": true,
+  "interactions": [
+    "Lift 5.629",
+    "Suit 16.306",
+    "Buckle 19.165",
+    "Unbuckle 42.584",
+    "ExitHatch 43.986"
+  ],
+  "expectedEndpoint": {
+    "schemaVersion": 1,
+    "utc": "2026-11-16T06:21:34.5647359Z",
+    "fixedStep": 10018,
+    "loopSeconds": 65.57172,
+    "referenceBody": "TimberHearth",
+    "positionLocal": [
+      -127.390472,
+      30.2173328,
+      -307.869354
+    ],
+    "rotationLocal": [
+      0.148044378,
+      0.6035698,
+      -0.657968044,
+      -0.425281733
+    ],
+    "cameraForwardLocal": [
+      -0.6794573,
+      -0.6730545,
+      0.292122722
+    ],
+    "upLocal": [
+      -0.380933464,
+      0.09032181,
+      -0.92018044
+    ],
+    "velocityRelativeToSurfaceLocal": [
+      0.02536031,
+      -0.00683295,
+      0.0441060439
+    ],
+    "speedRelativeToSurface": 0.0513339825,
+    "radius": 334.551941,
+    "grounded": true,
+    "groundBody": "TimberHearth_Body",
+    "groundContactLocal": [
+      -126.970108,
+      30.108263,
+      -306.968628
+    ],
+    "stableCandidate": true,
+    "wearingSuit": true,
+    "inputMode": "Character",
+    "pitch": -4.058153
+  },
+  "targetPositionLocal": [
+    -127.39106,
+    30.237,
+    -307.866
+  ],
+  "lastPose": {
+    "schemaVersion": 1,
+    "utc": "2026-11-20T16:01:31.1757925Z",
+    "fixedStep": 12866,
+    "loopSeconds": 65.18108,
+    "referenceBody": "TimberHearth",
+    "positionLocal": [
+      -127.392563,
+      30.23565,
+      -307.865662
+    ],
+    "rotationLocal": [
+      0.148028046,
+      0.6035889,
+      -0.6579504,
+      -0.425287783
+    ],
+    "cameraForwardLocal": [
+      -0.679453731,
+      -0.673074245,
+      0.292085826
+    ],
+    "upLocal": [
+      -0.380940318,
+      0.0903781354,
+      -0.9201722
+    ],
+    "velocityRelativeToSurfaceLocal": [
+      0.03144766,
+      -0.008673497,
+      0.0583329871
+    ],
+    "speedRelativeToSurface": 0.06683502,
+    "radius": 334.5509,
+    "grounded": true,
+    "groundBody": "TimberHearth_Body",
+    "groundContactLocal": [
+      -126.972107,
+      30.1265335,
+      -306.964722
+    ],
+    "stableCandidate": true,
+    "wearingSuit": true,
+    "inputMode": "Character",
+    "pitch": -4.058153
+  },
+  "shipPhase": "Walking",
+  "maxCockpitErrorMeters": 0.571662545,
+  "LandingErrorMeters": 1.08133674,
+  "TrackingWalk": true,
+  "distanceFromEndpointMeters": 0.002048233
+}

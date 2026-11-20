@@ -1,0 +1,14 @@
+{
+  "installedRelease": "0.6.4",
+  "startedLocalTime": "2026-11-21T00:00:22+08:00",
+  "launchStep": 17313,
+  "launchPositionErrorMeters": 0.002064199,
+  "lastRecordedFlightStep": 15060,
+  "lastRecordedFlightSeconds": 251,
+  "anchorObservedInRecordedSamples": false,
+  "centerMinMeters": 130.4089038982118,
+  "collisionSurfaceSampledGapFromScoutReferenceMeters": 15.673946914050406,
+  "nearestStructure": "Structure_NOM_SunStation_Warp_Collider",
+  "dataScope": "Offline summary of the release verification trace. The native launch receipt and sampled trajectory are retained. The app did not write a final native shot result for this run.",
+  "trajectorySha256": "2802e2d7dc8e7ff167daa4b1e418815a94b0f799ab4776939b69349059df45de"
+}

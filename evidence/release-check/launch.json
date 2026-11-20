@@ -1,0 +1,292 @@
+{
+  "Label": "capture-20261121-000022-260",
+  "launchStep": 17313,
+  "loopSeconds": 288.5311,
+  "Yaw": 14.5376444,
+  "Pitch": 47.33874,
+  "targetPositionLocal": [
+    -127.39106,
+    30.237,
+    -307.866
+  ],
+  "targetDirectionLocal": [
+    -0.8640008,
+    -0.201774538,
+    -0.461291939
+  ],
+  "angularErrorDegrees": 0.0000459660951,
+  "yawErrorDegrees": 0.0000458390568,
+  "pitchErrorDegrees": -0.00000341509462,
+  "viewErrorDegrees": 0.0000323367021,
+  "aimToleranceDegrees": 0.0002,
+  "positionErrorMeters": 0.002064199,
+  "positionToleranceMeters": 0.005,
+  "AimStartStep": 3912,
+  "AimCompletionStep": 4096,
+  "MoonWarningAtLaunch": false,
+  "LaunchMoonState": 3,
+  "timberQuantumState": 1,
+  "configuredTimeScale": 1,
+  "waitWithSleep": false,
+  "launch": {
+    "before": {
+      "scene": "SolarSystem",
+      "fixedStep": 26267,
+      "session": "20261120-235343",
+      "utc": "2026-11-20T16:05:14.5268667Z",
+      "ready": true,
+      "recorderVersion": "0.6.3",
+      "maxDiagnosticFlightSpeed": 24,
+      "launchLocationSupported": true,
+      "worldCaptureStatus": "idle",
+      "worldCaptureIndex": 0,
+      "worldCapturePath": null,
+      "playerSamples": 366,
+      "playerLogMode": "low",
+      "savedPoints": 0,
+      "playerPose": {
+        "schemaVersion": 1,
+        "utc": "2026-11-20T16:05:14.5268667Z",
+        "fixedStep": 26267,
+        "loopSeconds": 288.5311,
+        "referenceBody": "TimberHearth",
+        "positionLocal": [
+          -127.392532,
+          30.23565,
+          -307.865479
+        ],
+        "rotationLocal": [
+          0.253138334,
+          0.5263234,
+          -0.625086248,
+          -0.517853141
+        ],
+        "cameraForwardLocal": [
+          -0.8640004,
+          -0.201774985,
+          -0.461292
+        ],
+        "upLocal": [
+          -0.380940557,
+          0.0903762653,
+          -0.920172036
+        ],
+        "velocityRelativeToSurfaceLocal": [
+          0.0296486132,
+          -0.008291017,
+          0.0567172877
+        ],
+        "speedRelativeToSurface": 0.06453396,
+        "radius": 334.5508,
+        "grounded": true,
+        "groundBody": "TimberHearth_Body",
+        "groundContactLocal": [
+          -126.9693,
+          30.1265,
+          -306.9658
+        ],
+        "stableCandidate": true,
+        "wearingSuit": true,
+        "inputMode": "Character",
+        "pitch": 47.3380547
+      },
+      "runInBackground": false,
+      "trialStatus": "idle",
+      "trialLoopStep": 17313,
+      "trialAttempt": 0,
+      "sleepWaiting": false,
+      "routeReplayStatus": "completed",
+      "routeShotStatus": "waiting",
+      "routeShotSecondsToLaunch": 0,
+      "quantum": {
+        "state": 3,
+        "timberQuantumState": 1,
+        "atTimberHearth": false,
+        "distanceToTimberHearth": 21724.28,
+        "positionRelativeToTimberHearth": [
+          -5230.716,
+          22.3869381,
+          21085.1465
+        ]
+      },
+      "loopSeconds": 288.5311,
+      "fixedDeltaTime": 0.0166666675,
+      "configuredTimeScale": 1,
+      "wallSeconds": 695.1517,
+      "timeScale": 1,
+      "inputMode": "Character",
+      "toolMode": "Probe",
+      "launcherEquipped": true,
+      "photoMode": false,
+      "playerVelocity": [
+        94.0215454,
+        -0.008291017,
+        194.101151
+      ],
+      "playerRelativeToTH": [
+        -152.099518,
+        30.23565,
+        -296.4385
+      ],
+      "cameraForward": [
+        -0.898773551,
+        -0.201774985,
+        -0.389221
+      ],
+      "pitch": 47.3380547,
+      "probeLaunched": false,
+      "probeAnchored": false,
+      "probeRetrieved": true,
+      "probeVelocity": [
+        0,
+        0,
+        0
+      ],
+      "probeRelativeToTH": [
+        -146.361313,
+        36.9539757,
+        -266.7026
+      ],
+      "probeRelativeToSun": [
+        7646.89551,
+        36.9539757,
+        -3890.77026
+      ],
+      "stationBodyFound": true,
+      "stationDistance": 7772.67139
+    },
+    "after": {
+      "scene": "SolarSystem",
+      "fixedStep": 26267,
+      "session": "20261120-235343",
+      "utc": "2026-11-20T16:05:14.5303826Z",
+      "ready": true,
+      "recorderVersion": "0.6.3",
+      "maxDiagnosticFlightSpeed": 24,
+      "launchLocationSupported": true,
+      "worldCaptureStatus": "idle",
+      "worldCaptureIndex": 0,
+      "worldCapturePath": null,
+      "playerSamples": 366,
+      "playerLogMode": "low",
+      "savedPoints": 0,
+      "playerPose": {
+        "schemaVersion": 1,
+        "utc": "2026-11-20T16:05:14.5303826Z",
+        "fixedStep": 26267,
+        "loopSeconds": 288.5311,
+        "referenceBody": "TimberHearth",
+        "positionLocal": [
+          -127.392532,
+          30.23565,
+          -307.865479
+        ],
+        "rotationLocal": [
+          0.253138334,
+          0.5263234,
+          -0.625086248,
+          -0.517853141
+        ],
+        "cameraForwardLocal": [
+          -0.8640004,
+          -0.201774985,
+          -0.461292
+        ],
+        "upLocal": [
+          -0.380940557,
+          0.0903762653,
+          -0.920172036
+        ],
+        "velocityRelativeToSurfaceLocal": [
+          0.0296486132,
+          -0.008291017,
+          0.0567172877
+        ],
+        "speedRelativeToSurface": 0.06453396,
+        "radius": 334.5508,
+        "grounded": true,
+        "groundBody": "TimberHearth_Body",
+        "groundContactLocal": [
+          -126.9693,
+          30.1265,
+          -306.9658
+        ],
+        "stableCandidate": true,
+        "wearingSuit": true,
+        "inputMode": "Character",
+        "pitch": 47.3380547
+      },
+      "runInBackground": false,
+      "trialStatus": "idle",
+      "trialLoopStep": 17313,
+      "trialAttempt": 0,
+      "sleepWaiting": false,
+      "routeReplayStatus": "completed",
+      "routeShotStatus": "waiting",
+      "routeShotSecondsToLaunch": 0,
+      "quantum": {
+        "state": 3,
+        "timberQuantumState": 1,
+        "atTimberHearth": false,
+        "distanceToTimberHearth": 21724.28,
+        "positionRelativeToTimberHearth": [
+          -5230.716,
+          22.3869381,
+          21085.1465
+        ]
+      },
+      "loopSeconds": 288.5311,
+      "fixedDeltaTime": 0.0166666675,
+      "configuredTimeScale": 1,
+      "wallSeconds": 695.154236,
+      "timeScale": 1,
+      "inputMode": "Character",
+      "toolMode": "Probe",
+      "launcherEquipped": true,
+      "photoMode": false,
+      "playerVelocity": [
+        94.0215454,
+        -0.008291017,
+        194.101151
+      ],
+      "playerRelativeToTH": [
+        -152.099518,
+        30.23565,
+        -296.4385
+      ],
+      "cameraForward": [
+        -0.898773551,
+        -0.201774985,
+        -0.389221
+      ],
+      "pitch": 47.3380547,
+      "probeLaunched": true,
+      "probeAnchored": false,
+      "probeRetrieved": false,
+      "probeVelocity": [
+        13.9613571,
+        -17.9818325,
+        159.43045
+      ],
+      "probeRelativeToTH": [
+        -150.018539,
+        35.90017,
+        -257.4946
+      ],
+      "probeRelativeToSun": [
+        7643.23828,
+        35.90017,
+        -3881.56226
+      ],
+      "stationBodyFound": true,
+      "stationDistance": 7763.78027
+    },
+    "velocityRelativeToPlayerBefore": [
+      -80.06019,
+      -17.9735413,
+      -34.6707
+    ],
+    "speedRelativeToPlayerBefore": 89.0771561
+  },
+  "trajectoryPath": "trajectory.csv"
+}

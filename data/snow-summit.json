@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "utc": "2026-11-16T06:21:22.7340042Z",
+  "fixedStep": 9630,
+  "loopSeconds": 59.11013,
+  "referenceBody": "TimberHearth",
+  "positionLocal": [
+    -127.390465,
+    30.2173271,
+    -307.869354
+  ],
+  "rotationLocal": [
+    0.1720429,
+    0.587589443,
+    -0.652104139,
+    -0.44710198
+  ],
+  "cameraForwardLocal": [
+    -0.669656038,
+    -0.618778944,
+    0.410698861
+  ],
+  "upLocal": [
+    -0.380932868,
+    0.09032294,
+    -0.92018044
+  ],
+  "velocityRelativeToSurfaceLocal": [
+    0.0236333627,
+    -0.00658346433,
+    0.042133633
+  ],
+  "speedRelativeToSurface": 0.0487557277,
+  "radius": 334.551941,
+  "grounded": true,
+  "groundBody": "TimberHearth_Body",
+  "groundContactLocal": [
+    -126.97,
+    30.1082687,
+    -306.9685
+  ],
+  "stableCandidate": true,
+  "wearingSuit": true,
+  "inputMode": "Character",
+  "pitch": -10.2948017
+}

@@ -1,0 +1,18 @@
+{
+  "Label": "capture-20261120-192341-421",
+  "reason": "restarted",
+  "error": null,
+  "launchStep": 17313,
+  "fired": true,
+  "Yaw": 14.5376444,
+  "Pitch": 47.33874,
+  "firstAnchorAge": null,
+  "anchorBody": null,
+  "stationAnchorConfirmed": false,
+  "actualFlightSteps": 14255,
+  "minSunStationDistance": 120.555504,
+  "MoonWarningAtLaunch": false,
+  "LaunchMoonState": 5,
+  "trajectoryPath": "trajectory.csv",
+  "launchPath": "launch.json"
+}

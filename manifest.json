@@ -1,0 +1,8 @@
+{
+  "filename": "SunStation.Control.dll",
+  "author": "SunStation",
+  "name": "Sun Station Scout Replay",
+  "uniqueName": "SunStation.Control",
+  "version": "0.6.4",
+  "owmlVersion": "2.16.3"
+}
